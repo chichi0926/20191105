@@ -26,5 +26,6 @@ void Student::out_student()
 
 void  Student::avg_student()
 {
-	cout << (math * english * politics) / 3;
+	cout << (math + english + politics) / 3;
 }
+////////////////////////////////////////////////////
