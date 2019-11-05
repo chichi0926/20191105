@@ -28,4 +28,3 @@ void  Student::avg_student()
 {
 	cout << (math + english + politics) / 3;
 }
-////////////////////////////////////////////////////
